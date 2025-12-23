@@ -1,2 +1,2 @@
 # Basys3-FPGA
-大二夏季学期课设开发，基于Basys3开发板实现一辆完成课题目标的小车
+In my sophomore summer semester course project, I developed a small intelligent car based on the Basys3 development board to achieve the project objectives.
